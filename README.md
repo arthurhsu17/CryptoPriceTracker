@@ -1,6 +1,7 @@
 # CryptoPriceTracker
 
 Cryptocurrency price tracker for Bitcoin and Ethereum made using Python3. Imported CryptoCompare API to extract live market data. 
+Files are saved into a .command file as to make them an executable that can be run on any system.
 
 Price is updated every second according to data that can be fetched at the given moment
 
