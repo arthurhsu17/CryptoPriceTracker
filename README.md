@@ -3,7 +3,7 @@
 Cryptocurrency price tracker for Bitcoin and Ethereum made using Python3. Imported CryptoCompare API to extract live market data. 
 Files are saved into a .command file as to make them an executable that can be run on any system.
 
-Price is updated every second according to data that can be fetched at the given moment
+Prices are updated every second according to data that can be fetched at the given moment.
 
 Prices are shown in United States Dollar(USD), Bitcoin(BTC), British Pounds(GBP) and Singapore Dollar(SGD).
 These 4 currencies being beneficial to me as USD is the standard currency quoted, BTC to know the comparison BTC is to ETH, GBP is the country that I live and study in as of 2022, and SGD is my home currency.
